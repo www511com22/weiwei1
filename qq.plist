@@ -1,34 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-    <key>items</key>
-    <array>
-        <dict>
-            <key>assets</key>
-            <array>
-                <dict>
-                    <key>kind</key>
-                    <string>software-package</string>
-                    <key>url</key>
-                    <string>https://ocz2yqtr4.qnssl.com/douyin.ipa</string>
-                </dict>
-            </array>
-        <key>metadata</key>
-            <dict>
-                <key>bundle-identifier</key>
-                <string>com.sunli.test</string>
-                <key>bundle-version</key>
-                <string>1.1.0</string>
-                <key>kind</key>
-                <string>software</string>
-                <key>releaseNotes</key>
-                <string>1.1�汾����</string>
-                <key>title</key>
-                <string>testDemo</string>
-            </dict>
-        </dict>
-    </array>
-</dict>
-</plist>
-
+<?xml version="1.0" encoding="UTF-8"?>   
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">   
+<plist version="1.0">   
+<dict>   
+   <key>items</key>   
+   <array>   
+       <dict>   
+           <key>assets</key>   
+           <array>   
+               <dict>   
+                   <key>kind</key>   
+                   <string>software-package</string>   
+                   <key>url</key>   
+                   <string>ipa包的下载地址，如：http://www.tammy.com:450/static/ios/(targetname)_(version)_build(buildversion)_yyyyMMdd.ipa</string>   
+               </dict>   
+           </array>   
+           <key>metadata</key>   
+           <dict>   
+               <key>bundle-identifier</key>   
+               <string>应用程序中的<span style="font-family:FangSong_GB2312">bundle-identifier</span><span style="font-family:FangSong_GB2312"></string></span>   
+               <key>bundle-version</key>   
+               <string>版本号</string>   
+               <key>kind</key>   
+               <string>software</string>   
+               <key>subtitle</key>   
+               <string>子标题</string>   
+               <key>title</key>   
+               <string>软件名称</string>   
+           </dict>   
+       </dict>   
+   </array>   
+</dict>   
+</plist>   
