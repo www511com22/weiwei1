@@ -1,49 +1,47 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>items</key>
-	<array>
-		<dict>
-			<key>assets</key>
-			<array>
-				<dict>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://github.com/www511com22/weiwei1/blob/master/pp.ipa</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<false/>
-					<key>url</key>
-					<string>http://test.hopsun.cn/resource/jibangong.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<false/>
-					<key>url</key>
-					<string>http://test.hopsun.cn/resource/jibangong.png</string>
-				</dict>
-			</array>
-			<key>metadata</key>
-			<dict>
-				<key>bundle-identifier</key>
-				<string>com.hopsun.jibangong</string>
-				<key>bundle-version</key>
-				<string>[Bundle版本]</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>subtitle</key>
-				<string></string>
-				<key>title</key>
-				<string>极办公</string>
-			</dict>
-		</dict>
-	</array>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://ocz2yqtr4.qnssl.com/345345.ipa</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>http://blog.s135.com/demo/ios/jhsmyt_logo.png</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>full-size-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>http://blog.s135.com/demo/ios/jhsmyt_logo.png</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>com.yijia.juhuasuan</string>
+<key>bundle-version</key>
+<string>1.0.0</string>
+<key>kind</key>
+<string>software</string>
+<key>subtitle</key>
+<string>聚划算每一天</string>
+<key>title</key>
+<string>聚划算每一天</string>
+</dict>
+</dict>
+</array>
 </dict>
 </plist>
