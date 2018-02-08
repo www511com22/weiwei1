@@ -17,7 +17,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>https://img3.3454.com/s/37886.jpg/string>
+<string>http://blog.s135.com/demo/ios/jhsmyt_logo.png</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -25,7 +25,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>https://img3.3454.com/s/37886.jpg</string>
+<string>http://blog.s135.com/demo/ios/jhsmyt_logo.png</string>
 </dict>
 </array>
 <key>metadata</key>
@@ -37,9 +37,9 @@
 <key>kind</key>
 <string>software</string>
 <key>subtitle</key>
-<string>Shadowrocket</string>
+<string>聚划算每一天</string>
 <key>title</key>
-<string>聚划算1</string>
+<string>聚划算每一天</string>
 </dict>
 </dict>
 </array>
