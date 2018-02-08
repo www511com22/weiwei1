@@ -17,7 +17,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>http://www.9080m.com/uploads/180208/1-1P20QPAK57.jpg/string>
+<string>http://www.9080m.com/uploads/180208/1-1P20QPAK57.jpg</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -37,9 +37,9 @@
 <key>kind</key>
 <string>software</string>
 <key>subtitle</key>
-<string>Shadowrocket</string>
+<string>威锋</string>
 <key>title</key>
-<string>威锋论坛</string>
+<string>威锋/string>
 </dict>
 </dict>
 </array>
