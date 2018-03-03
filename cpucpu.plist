@@ -17,7 +17,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>http://p5098fqou.bkt.clouddn.com/cpu.png</string>
+<string>https://raw.githubusercontent.com/www511com22/applogo/master/cpu.png</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -25,7 +25,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>http://p5098fqou.bkt.clouddn.com/cpu.png</string>
+<string>https://raw.githubusercontent.com/www511com22/applogo/master/cpu.png</string>
 </dict>
 </array>
 <key>metadata</key>
