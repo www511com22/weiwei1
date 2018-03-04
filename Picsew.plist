@@ -3,7 +3,7 @@
 <key>items</key>
 <array>
 <dict>
-<key>assets</key>a
+<key>assets</key>
 <array>
 <dict>
 <key>kind</key>
@@ -17,7 +17,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>https://img.25pp.com/uploadfile/app/icon/20170930/1506703274927117.jpg/string>
+<string>http://www.9080m.com/uploads/180208/1-1P20QPAK57.jpg</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -25,7 +25,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>https://img.25pp.com/uploadfile/app/icon/20170930/1506703274927117.jpg</string>
+<string>http://www.9080m.com/uploads/180208/1-1P20QPAK57.jpg</string>
 </dict>
 </array>
 <key>metadata</key>
@@ -39,9 +39,10 @@
 <key>subtitle</key>
 <string>Shadowrocket</string>
 <key>title</key>
-<string>Picsew 2.7长截图</string>
+<string>Picsew</string>
 </dict>
 </dict>
 </array>
 </dict>
 </plist>
+s
